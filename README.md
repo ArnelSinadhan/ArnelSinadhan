@@ -69,5 +69,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 ---
 
 ## 🌟 Let's Connect!
-- **Portfolio:** [arnelsinadhan.github.io/webportfolio/](https://arnelsinadhan.github.io/webportfolio/)  
+- **Portfolio:** [[arnelsinadhan.github.io/webportfolio/](https://arnelsinadhan.github.io/webportfolio/](https://arnel-ds-portfolio-9wee.vercel.app/
+))  
 - **Email:** arnelsinadhan11@gmail.com  
