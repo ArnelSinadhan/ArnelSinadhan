@@ -2,29 +2,56 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with experience in designing and building dynamic web applications, responsive designs, and API integrations. My goal is to create impactful solutions and contribute to innovative projects that make a difference.
 ---
+## 💻 Tech Stack Overview
 
-## 🔧 Skills and Expertise
+### 🔧 Front-End Development
 
-### **Front-End Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mui" width="45"/><br>Material UI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>shadcn/ui (Tailwind)</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="45"/><br>Flutter</td>
+  </tr>
+</table>
 
-### **Back-End Development**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+---
 
-### **Full-Stack Development**
-![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+### 🔌 Back-End Development
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>REST API (Postman)</td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Tools & Full-Stack Integration
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="45"/><br>NPM</td>
+  </tr>
+</table>
 
 ---
 
