@@ -82,12 +82,16 @@ Institute of Creative Computer Technology (ICCT) · *2019 – 2022*
 
 ## GitHub Stats
 
-<div align="center">
-
-![Arnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnelSinadhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnelSinadhan&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnelSinadhan&theme=github" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArnelSinadhan&theme=github" />
+</td>
+</tr>
+</table>
 
 ---
 
